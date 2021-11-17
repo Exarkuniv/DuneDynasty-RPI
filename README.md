@@ -6,5 +6,5 @@ Dune Dynasty is a continuation of the classic real-time strategy game Dune II by
 
 
 ```
-wget https://raw.githubusercontent.com/Exarkuniv/Doom-3-RPI/Master/dhewm3.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
+wget https://raw.githubusercontent.com/Exarkuniv/dunedynasty-RPI/Master/dunedynasty.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
 ```
