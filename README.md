@@ -1,4 +1,4 @@
-# dunedynasty-RPI
+# Dune Dynasty-RPI
 dune dynasty for the Pi4
 ![screenshot](http://sourceforge.net/projects/dunedynasty/screenshots/screenshot_hark2.png)
 
